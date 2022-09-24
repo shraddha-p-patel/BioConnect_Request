@@ -1,0 +1,7 @@
+export const ActionTypes = {
+  SAVE_INPUT: "SAVE_INPUT",
+  FILTER_DATA: "FILTER_DATA",
+  TAB_CHANGE: "TAB_CHANGE",
+  VIEW_DATA: "VIEW_DATA",
+  MAIN_DATA: "MAIN_DATA",
+};
